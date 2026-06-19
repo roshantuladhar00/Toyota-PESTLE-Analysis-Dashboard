@@ -50,6 +50,8 @@ Three-table model, each loaded independently via Power Query (`Excel.Workbook` s
 - `Sales & Production`
 - `Employee, Social & Enviromental`
 
+<img width="1254" height="524" alt="Relation Architecture" src="https://github.com/user-attachments/assets/214ecf93-33cb-475a-aff0-229f0a56e2d0" />
+
 Power Query transformations include:
 - Promoted headers and type changes for all numeric columns
 - Continent cleanup in `Sales & Production`: `"Latin America"` remapped to `"South America"`, `"Oceanic"` remapped to `"Australia"`
