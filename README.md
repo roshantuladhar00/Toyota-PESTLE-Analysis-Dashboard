@@ -10,25 +10,25 @@ An industry-level Power BI dashboard built to analyze Toyota Motor Corporation's
 Tracks Toyota's market and financial performance: trading volume vs. market price trend, yearly average stock open price, average close vs. adjusted close price over time, plus KPI cards for total revenue, total capital expenditure, max average open, and max close price. Filterable by year.
 
 **Key Insight:** Revenue grew from ¥31,379.5B in 2022 to ¥37,154.2B in 2023 — an 18.4% YoY increase — while operating margin held at 7.3%, showing top-line growth outpaced profitability gains.
-<img width="1079" height="608" alt="Economic Factors" src="https://github.com/user-attachments/assets/77ef6206-86cf-4d02-87b3-c0675d49ada2" />
+<img width="1081" height="610" alt="Economic Factors" src="https://github.com/user-attachments/assets/9110920f-42c5-45fa-9a23-462795b85e47" />
 
 ### Page 2 — Economic Factors II
 Compares vehicle production against units sold (2011–2023), production share by continent on a map, and YoY production/unit sales growth.
 
 **Key Insight:** Asia accounts for the majority of global production (6.01M of 9.40M units in 2023, ~64%), with North America a distant second at 1.84M — production growth (+6.3% YoY) outpaced sales growth (+1.0% YoY) in 2023, pointing to a building inventory gap.
-<img width="1234" height="695" alt="Economic Factors 2" src="https://github.com/user-attachments/assets/54ce7f1c-1b6a-440c-87ed-8a78b8be5cbe" />
+<img width="1082" height="613" alt="Economic Factors 2" src="https://github.com/user-attachments/assets/f03319de-feb4-413d-b526-77b7d708b21f" />
 
 ### Page 3 — Technological Factor
 Examines R&D investment efficiency: R&D vs. operating returns scatter plot, R&D vs. revenue performance over time, and a decomposition tree breaking down operating income drivers by year, region, and expense category.
 
 **Key Insight:** R&D Efficiency (Operating Income / R&D Expense) sat at 2.19x in 2023, while the Innovation Productivity Index (Operating Income per ¥100 of R&D + CapEx) was 95.7 — both measures of how much operating return each R&D yen generates.
-<img width="1234" height="693" alt="Technological Factor" src="https://github.com/user-attachments/assets/dbc94bcd-8f9e-49bc-9232-39c2dfce7590" />
+<img width="1081" height="610" alt="Technological Factor" src="https://github.com/user-attachments/assets/d6e12155-e39d-4629-965c-607132142c3d" />
 
 ### Page 4 — Social and Environmental Factor
 Covers gender distribution of new hires, annual social investment expenditure, and revenue vs. waste production trends.
 
 **Key Insight:** Female representation in new hires rose to 43.6% in 2023 (723 of 1,657 hires), the highest in the dataset, even as total waste production ticked up to 29.0 thousand/ton from a multi-year low of 23.0 thousand/ton in 2022.
-<img width="1231" height="694" alt="Social and Environmental Factor" src="https://github.com/user-attachments/assets/a96843d5-c0da-481f-b518-728474c59388" />
+<img width="1085" height="613" alt="Social and Environmental Factor" src="https://github.com/user-attachments/assets/d5936cc9-715f-4381-8b8f-1d2a20ec3bf6" />
 
 
 ## Technical Architecture
