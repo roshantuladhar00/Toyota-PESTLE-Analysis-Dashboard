@@ -1,10 +1,6 @@
 # Toyota PESTLE Analytics Dashboard
 
 ## Dashboard Preview
-**Page 1 — Economic Factors**
-**Page 2 — Economic Factors II**
-**Page 3 — Technological Factor**
-**Page 4 — Social and Environmental Factor**
 
 An industry-level Power BI dashboard built to analyze Toyota Motor Corporation's performance through a PESTLE lens (Political, Economic, Social, Technological, Legal, Environmental), focused on the Economic, Technological, Social, and Environmental dimensions. The dashboard combines stock performance, production/sales trends, R&D efficiency, and workforce/sustainability metrics into a single executive-level view, mirroring the kind of cross-functional case study analysis used in corporate strategy and FP&A teams.
 
