@@ -10,7 +10,7 @@ An industry-level Power BI dashboard built to analyze Toyota Motor Corporation's
 Tracks Toyota's market and financial performance: trading volume vs. market price trend, yearly average stock open price, average close vs. adjusted close price over time, plus KPI cards for total revenue, total capital expenditure, max average open, and max close price. Filterable by year.
 
 **Key Insight:** Revenue grew from ¥31,379.5B in 2022 to ¥37,154.2B in 2023 — an 18.4% YoY increase — while operating margin held at 7.3%, showing top-line growth outpaced profitability gains.
-<img width="1232" height="697" alt="Economic Factors" src="https://github.com/user-attachments/assets/d6f1616d-62c0-4581-8178-2c60fd3ded42" />
+<img width="1079" height="608" alt="Economic Factors" src="https://github.com/user-attachments/assets/77ef6206-86cf-4d02-87b3-c0675d49ada2" />
 
 ### Page 2 — Economic Factors II
 Compares vehicle production against units sold (2011–2023), production share by continent on a map, and YoY production/unit sales growth.
